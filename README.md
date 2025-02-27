@@ -4,7 +4,7 @@ Este repositorio contiene el material del curso "Introducción a la Programació
 
 📌 Contenido En este curso se explican los conceptos fundamentales de la programación.
 
-n este curso se explican los conceptos fundamentales de la programación, incluyendo:
+En este curso se explican los conceptos fundamentales de la programación, incluyendo:
 
 ✅ ¿Qué es un algoritmo?
 ✅ Tipos de datos y estructuras básicas
