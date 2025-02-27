@@ -2,7 +2,7 @@
 
 Este repositorio contiene el material del curso "Introducción a la Programación" dictado por la Universidad Tecnológica Nacional (UTN).
 
-📌 En este curso se explican los conceptos fundamentales de la programación ncluyendo:
+📌 En este curso se explican los conceptos fundamentales de la programación incluyendo:
 
 ✅ ¿Qué es un algoritmo?
 ✅ Tipos de datos y estructuras básicas
